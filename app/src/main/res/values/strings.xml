@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyShoppingApp</string>
+    <string name="lemon">Лимон</string>
+    <string-array name="sweets">
+        <item>Шоколад</item>
+        <item>Вафли</item>
+        <item>Печеньки</item>
+        <item>Коровки</item>
+        <item>Баклава</item>
+    </string-array>
+</resources>
